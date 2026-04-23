@@ -1,0 +1,6 @@
+target/
+node_modules/
+.env
+*.log
+*.class
+application-local.properties
